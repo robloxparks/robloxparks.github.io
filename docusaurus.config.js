@@ -8,12 +8,12 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "BloxStreet Support",
-  tagline: "All there is to know about BloxStreet",
+  title: "skyHigh Support",
+  tagline: "All there is to know about skyHigh",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://support.bloxstreet.com",
+  url: "https://robloxparks.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
