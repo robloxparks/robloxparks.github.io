@@ -1,7 +1,7 @@
 ---
-sidebar_position: 4
-sidebar_label: Shifts and Trainings
-sidebar_class_name: HR Information
+sidebar_position: 2
+sidebar_title: Shifts and Trainings
+sidebar_label: S&T
 ---
 
 # Shifts and Trainings
