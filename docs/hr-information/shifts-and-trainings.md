@@ -14,72 +14,204 @@ Here, HRs can find information about shifts and training sessions.
 
 ### <font color="#C21807">Claiming Shifts and Training Sessions: Information and Formats</font>
 
-To claim a shift or training session, HRs are required to use the provided formats and post their claim(s) in the [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608) channel at **5:00 PM EST**. HRs who cannot claim sessions at this time are encouraged to visit the [Claiming Exception Requests thread](https://discord.com/channels/323081832071561216/1177015340803293184). If you are unable to access the thread, you are encouraged to contact an SHR. When an HR claims a shift or training session, they are reserving it for the following day. For instance, if an HR claims a shift at 5:00 PM EST today, they will be hosting that shift tomorrow.
-
-**Shift Claiming Format:**
-
-`Host’s Username:`<br />
-`Ranker’s Username:`<br />
-`Shift Date & Time:`
-
-All HRs have the option to host shifts. Only individuals who hold the rank of Executive Assistant or higher are granted ranking privileges. As a result, Store Directors must have a ranker available for their shift before claiming. The ranker does not necessarily have to be in the store to perform their duties. It is the ranker's responsibility to be online and available when the Store Director is hosting their shift. In the case of Executive Assistants or Store Executives hosting a shift, they should exclude the 'Ranker's Username:' portion from the claiming message, as they are capable of ranking themselves.
-
-**Training Claiming Format:**
-
-`Host’s Username:`<br />
-`Co-Host’s Username:`<br />
-`Training Date & Time:`
-
-Executive Assistants and Store Executives are permitted to host training sessions. Co-Hosts are not required. If one of these ranks is hosting a training independently, they should exclude the 'Co-Host's Username' portion from the claiming message.
-
-### <font color="#C21807">Claiming Shifts and Training Sessions: Rules</font>
-
-- Executive Assistant+ may only host/co-host trainings twice a day.
-- Store Director+ can only host shifts once a day. Store Directors need a ranker.
-- Any claim submitted before 5:00 PM EST will not be accepted.
-- Edited claims will not be accepted.
-- There may only be one claim per message.
-- The spelling of usernames or an incorrect date do not matter.
-- HRs on an inactivity notice cannot claim for other HRs.
-- HRs on an inactivity notice cannot claim for themselves until it is the final day of their notice.
-- Anyone can claim for HRs on the claiming exceptions list if the HR has agreed to a session.
-
-If an HR's claim is approved, an SHR will indicate approval with a ✅ reaction. If declined, an SHR will use an ❎ reaction. Arguments about claiming will not be tolerated. An SHR will announce the schedule for the following day between 5:00 PM and 11:30 PM EST.
-
-Note that it is crucial to follow through on claimed shifts and training sessions. If an HR claims a shift or training session but becomes unable to host, they themselves are responsible for finding a replacement and informing the scheduler in [#session-claiming](https://discord.com/channels/323081832071561216/889200177536196608). Repeated instances of claiming without hosting or transferring sessions may lead to consequences.
 
 
-### <font color="#C21807">Basic Shift Information</font>
-- Shifts offer opportunities for Department Supervisors, Department Managers, and Assistant Store Managers to receive a promotion.
-- Shifts also serve as times for guests to visit the store and have an enjoyable experience.
-- Shift hosts are responsible for ensuring a successful shift by supervising, ensuring staff members have detailed and courteous greetings, and recognizing outstanding performance by promoting individuals.
-- Shifts should be claimed at xx:00. Shifts can be claimed at xx:10 at the latest. A shift cannot be claimed after this time.
-
-### <font color="#C21807">Promoting at Shifts</font>
-During a shift, the host is permitted to promote Department Supervisors, Department Managers, and Assistant Store Managers. Store Managers, however, are ineligible for a promotion during shifts, although their contributions during shifts are still appreciated.
-
-__During the shift at the store, the host should consider the following before promoting individuals:__
-- Staff members who have recently viewed or followed the shift host or hinted recently should be excluded from promotion consideration.
-- Professionalism, politeness, respect, hard work, excellent grammar, and unique greetings are required for MRs seeking a promotion.
-- The host should attempt to check all store departments.
-- The host has the option to approach players and engage with them by checking out or ordering an item.
-
-If a player meets all the previously mentioned requirements, the host may proceed to promote them.
-
-Hosts should conduct shift promotions in a professional manner, wherein they directly approach staff members, extend their congratulations, and refrain from resorting to misleading or foolish tactics. Anything resembling "We've caught you behaving unprofessionally, and you will be demoted!" or "What starts with a p and ends with an n?" is strictly forbidden. Please be direct when conveying your intent to promote a staff member. After congratulating the promoted staff member, the host should provide them with brief information regarding their new rank responsibilities. The host should then instruct the staff member to rejoin the game for their new rank.
-
-It is important to note that the host is limited to promoting a maximum of **5** players per shift. Promotions should be viewed as a privilege rather than a right, and the host has the discretion to choose not to promote anyone if no staff members have surpassed their expectations. Additionally, there should only be one host during a shift. No other individuals may offer assistance, follow the host, or supervise the host.
-
-### <font color="#C21807">Step-By-Step Claiming</font>
-
-1. Equip the Staff Tablet located in your inventory.
-2. Once you equip the tablet, click the menu icon and go to "Shifts."
-3. Click the "Start Shift" button.
-
-Only HRs who are scheduled to host a shift may claim it in-game.
+Training Guide [TG]  
 
 
-### <font color="#C21807">Joining and Leaving During a Shift</font>
-- Before an HR decides to claim a shift at the store, it is important for them to have a stable internet connection and the ability to remain in-game for a minimum of 35 minutes. If a host is unable to stay for the entire duration of the shift, they should refrain from claiming it.
-- Shifts always conclude at :30.
-- HRs who leave a shift after promoting five players will face consequences. HRs may only leave once the shift has concluded.
+
+Rank requirements
+Host: Managing Director+
+Co-Host: Assistant Managing Director+
+Trainers: Assistant Managing Director+
+
+
+
+
+To host a training, you need..
+Co-host (Only 1)
+Trainers (Maximum 3)
+This training guide
+
+Only the cashier training is published yet.
+
+
+Host: Good morning/afternoon, everyone! Welcome everyone to Airbound [Type] Training. I will be your host today. And [Co-Host] will be our Co-Host.
+
+[Co-Host introduce themselves]
+
+Host: Great! Now that we introduced ourselves. We will go over some rules first.
+
+
+1. Safety First: Ensure that all guests are following safety guidelines, including wearing appropriate grip socks and adhering to the designated jump areas.
+
+2. Customer Service: Provide excellent customer service by greeting and assisting guests, answering their questions, and ensuring they have a fantastic time at Airbound.
+
+3. Cleanliness: Keep the trampoline park clean and organized throughout your shift. Regularly check the jump areas for any debris or hazards.
+
+4. Teamwork: Collaborate with your fellow team members, communicate effectively, and assist each other whenever needed.
+
+5. Emergencies: Familiarize yourself with our emergency protocols, including first aid procedures and emergency contact information.
+
+6. Personal Appearance: Maintain a neat and professional appearance while representing Airbound. Wear your designated uniform with pride.
+
+7. Rule Enforcement: Enforce park rules politely and consistently. If any issues arise, alert a supervisor or manager immediately.
+
+
+
+*Cashier Training:*
+
+Co-Host: Lets go to the Main Reception and I will show you how to use DRS and how to properly serve a customer. Please follow me.
+
+Host: Okay so now I will teach you how to use DRS and properly serve a customer.
+
+[Host walks up to the DRS and when talking shows everything]
+
+Host: So first we need to click Sign In, then you need to equip Operator Barcode and scan it.
+
+Host: As you can see now we are logged in. Now we need to wait for a customer. And for this training our Co-Host will be a customer.
+
+[Co-Host walks up to Main Reception]
+
+Host: Now we need to say our welcoming phrase it can be for example:
+
+Host: Welcome to Airbound! How may I help you today?
+
+Host: Please write in chat your welcoming phrase. Make sure that they follow grammar.
+
+[Everyone waits until every member writes a welcoming phrase and the Host corrects them.
+
+Co-Host: I would like a ticket, please.
+
+Host: Sure! What ticket would you like?
+
+[Co-Host selects a ticket and says it]
+
+Host: Is that all?
+
+Co-Host: Yes.
+
+Host: Now we need to click: Subtotal and General EFT. And say:
+
+Host: Please tap or insert your card.
+
+[Co-Host inserts his/her card and pays]
+
+Host: Now we need to say our goodbye message it can be for example:
+
+Host: Thank you. And enjoy your experience at Jumparea!
+
+[Co-Host goes back inside the Main Reception]
+
+Host: Alright. Now we test each one of you how well you perform.
+
+[Host selects a member and then goes to the Main Reception, pretends to be a customer, and corrects them if they are wrong. After that he does that to every other member.]
+
+Host: Alright. Now we are close to the end of our training. I will announce who passed now.
+
+[Host says who passed and ranks them]
+
+Host: This is the end of our training session. You have passed and we'll see you next time at Airbound. Have a wonderful day/night!
+
+Shift Guide [SG]
+
+Due to the new shift cooldown rule, 1 shift per day is allowed, If you do not follow this cooldown you will face punishment.
+
+
+To host a shift, you need..
+Co-host (Only 1) 
+This shift guide
+
+[Host enters the room, followed by the Co-Host]
+
+Host: Good morning/afternoon, everyone! Thank you for joining us today at Airbound, the ultimate trampoline park in Roblox! I'm [Host Name], and this is my co-host, [Co-Host Name]. We're thrilled to have you as part of our team. Before we begin, let's introduce ourselves briefly.
+
+[Host and Co-Host introduce themselves, sharing their roles and a fun fact about themselves.]
+
+Host: Now that we know each other a bit better, let's move on to assigning roles for today's shift. Please pay attention as we call out your names and corresponding roles and break time.
+
+[Host and Co-Host call out names and assign roles. For example: Jump Attendants, Party Hosts, Safety Monitors, Cashiers, etc.]
+
+Host: Great! Now that everyone has their roles, let's go over some important rules and guidelines before we start our shift. Remember, the safety and enjoyment of our guests are our top priorities.
+
+1. Safety First: Ensure that all guests are following safety guidelines, including wearing appropriate grip socks and adhering to the designated jump areas.
+
+2. Customer Service: Provide excellent customer service by greeting and assisting guests, answering their questions, and ensuring they have a fantastic time at Airbound.
+
+3. Cleanliness: Keep the trampoline park clean and organized throughout your shift. Regularly check the jump areas for any debris or hazards.
+
+4. Teamwork: Collaborate with your fellow team members, communicate effectively, and assist each other whenever needed.
+
+5. Emergencies: Familiarize yourself with our emergency protocols, including first aid procedures and emergency contact information.
+
+6. Personal Appearance: Maintain a neat and professional appearance while representing Airbound. Wear your designated uniform with pride.
+
+7. Breaks: Take breaks as scheduled and ensure that there is always adequate coverage for your assigned areas.
+
+8. Rule Enforcement: Enforce park rules politely and consistently. If any issues arise, alert a supervisor or manager immediately.
+
+Co-Host: It's important to remember that our goal is to create a fun and safe environment for our guests. By following these rules, we can provide an exceptional experience for everyone.
+
+Host: Alright, now that we're all on the same page, let's have an amazing shift together! Remember, always be proactive, attentive, and friendly towards our guests. Now, let's dismiss and get ready for our positions. Have a great shift, everyone!
+
+[Host and Co-Host dismiss the team members to their assigned positions.]
+
+[End of Shift]
+
+*In case of a promotion head to page 14:*
+
+Host: Great job, team! We've had an incredible shift at Airbound today. Before we wrap up, I would like to take a moment to recognize a few outstanding individuals who went above and beyond their duties.
+
+[Host acknowledges specific team members by name, highlighting their exemplary performance or notable achievements.]
+
+Host: Please join me in congratulating them on their exceptional work! Keep up the fantastic job, and let's continue to make Airbound the best trampoline park in Roblox!
+
+Co-Host: Now, it's time to conclude our shift. Thank you all for your hard work, dedication, and commitment to providing an amazing experience for our guests. You are all valued members of our Airbound family.
+
+Host: Before you go, let's give a big round of applause for each other! Great teamwork, everyone!
+
+[Host and Co-Host lead the team in applause.]
+
+Host: Enjoy your well-deserved rest, and we'll see you next time at Airbound. Have a wonderful day/night!
+
+[Host and Co-Host dismiss the team members, signaling the end of the shift briefing.]
+
+
+
+
+
+
+
+
+
+
+*Promotion Script:*
+
+
+Host: Ladies and gentlemen, can I have your attention please? I would like to take a moment to recognize a team member who has shown exceptional dedication and growth during their time here at Airbound. Today, we have an exciting announcement to make.
+
+[Pause for anticipation]
+
+Host: It gives me great pleasure to announce that [Employee's Name] is being promoted from [Current Rank] to [New Rank]! Let's give them a round of applause!
+
+[Team members applaud and congratulate the promoted employee]
+
+Host: [Employee's Name], your hard work, commitment, and positive attitude have not gone unnoticed. You have consistently demonstrated outstanding performance in your role, exceeding our expectations. Your contributions have had a significant impact on our team and our guests' experience at Airbound.
+
+Co-Host: This promotion is a testament to your skills, professionalism, and ability to go above and beyond. We have no doubt that you will excel in your new position and continue to inspire your fellow team members.
+
+Host: [Employee's Name], your promotion comes with added responsibilities and new opportunities for growth. We are confident that you will embrace these challenges with enthusiasm and continue to raise the bar for excellence at Airbound.
+
+Co-Host: As you embark on this new chapter in your journey with us, we want you to know that we have full confidence in your abilities. We are excited to see how you will contribute to the success of our team and the overall experience of our guests.
+
+Host: Once again, congratulations on your well-deserved promotion, [Employee's Name]! We are proud to have you as part of our team and look forward to witnessing your continued success.
+
+[Host and Co-Host lead the team in another round of applause]
+
+Host: Let's all take a moment to congratulate [Employee's Name] personally and show our support. Keep up the great work, everyone!
+
+[Team members approach the promoted employee to offer their congratulations and support]
+
+Host: Thank you all for being a part of this special moment. Your hard work and dedication contribute to the success of Airbound. Let's continue to strive for excellence together. Have a wonderful day/night, everyone!
+
+[Host and Co-Host conclude the promotion announcement, allowing team members to resume their duties.]
